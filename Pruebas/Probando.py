@@ -1,5 +1,0 @@
-print ("Hola mundo")
-print ("Cambiando cosas para probar si hace el commit a github")
-print ("Escribe tu nombre:")
-nombre = input()
-print (nombre + " eres el puto amo")
